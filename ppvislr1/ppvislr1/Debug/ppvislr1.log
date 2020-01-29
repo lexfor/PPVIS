@@ -1,0 +1,12 @@
+﻿  Menu.cpp
+C:\Users\theti\source\repos\ppvislr1\ppvislr1\Menu.cpp(43,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\theti\source\repos\ppvislr1\ppvislr1\Menu.cpp(127,21): warning C4018:  '<': signed/unsigned mismatch
+  Source.cpp
+  Vector.cpp
+  Generating Code...
+C:\Users\theti\source\repos\ppvislr1\ppvislr1\Menu.cpp(136,21): warning C4244:  '=': conversion from '_Ty' to 'int', possible loss of data
+C:\Users\theti\source\repos\ppvislr1\ppvislr1\Menu.cpp(136,21): warning C4244:         with
+C:\Users\theti\source\repos\ppvislr1\ppvislr1\Menu.cpp(136,21): warning C4244:         [
+C:\Users\theti\source\repos\ppvislr1\ppvislr1\Menu.cpp(136,21): warning C4244:             _Ty=double
+C:\Users\theti\source\repos\ppvislr1\ppvislr1\Menu.cpp(136,21): warning C4244:         ]
+  ppvislr1.vcxproj -> C:\Users\theti\source\repos\ppvislr1\Debug\ppvislr1.exe
