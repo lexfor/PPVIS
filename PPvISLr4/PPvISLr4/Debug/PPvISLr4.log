@@ -1,0 +1,56 @@
+﻿  Source.cpp
+C:\Users\theti\source\repos\PPvISLr4\PPvISLr4\nongraf.h(186,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\theti\source\repos\PPvISLr4\PPvISLr4\nongraf.h(185): message : во время компиляции функции-члена класс шаблон "std::ostream &operator <<(std::ostream &,const nongraf<int> &)"
+C:\Users\theti\source\repos\PPvISLr4\PPvISLr4\Source.cpp(10): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::ostream &operator <<(std::ostream &,const nongraf<int> &)"
+C:\Users\theti\source\repos\PPvISLr4\PPvISLr4\Source.cpp(4): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "nongraf<int>"
+C:\Users\theti\source\repos\PPvISLr4\PPvISLr4\nongraf.h(120,14): warning C4101: a: неиспользованная локальная переменная
+C:\Users\theti\source\repos\PPvISLr4\PPvISLr4\nongraf.h(114): message : во время компиляции функции-члена класс шаблон "nongraf<int>::Iterator nongraf<int>::End(void) const"
+C:\Users\theti\source\repos\PPvISLr4\PPvISLr4\Source.cpp(12): message : выполняется компиляция ссылки на экземпляр шаблон функции "nongraf<int>::Iterator nongraf<int>::End(void) const"
+C:\Users\theti\source\repos\PPvISLr4\PPvISLr4\nongraf.h(107,13): warning C4101: a: неиспользованная локальная переменная
+C:\Users\theti\source\repos\PPvISLr4\PPvISLr4\nongraf.h(101): message : во время компиляции функции-члена класс шаблон "nongraf<int>::Iterator nongraf<int>::Begin(void) const"
+C:\Users\theti\source\repos\PPvISLr4\PPvISLr4\Source.cpp(17): message : выполняется компиляция ссылки на экземпляр шаблон функции "nongraf<int>::Iterator nongraf<int>::Begin(void) const"
+C:\Users\theti\source\repos\PPvISLr4\PPvISLr4\nongraf.h(93,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\theti\source\repos\PPvISLr4\PPvISLr4\nongraf.h(92): message : во время компиляции функции-члена класс шаблон "nongraf<int>::Iterator nongraf<int>::GetVerIter(T)"
+C:\Users\theti\source\repos\PPvISLr4\PPvISLr4\nongraf.h(92): message :         with
+C:\Users\theti\source\repos\PPvISLr4\PPvISLr4\nongraf.h(92): message :         [
+C:\Users\theti\source\repos\PPvISLr4\PPvISLr4\nongraf.h(92): message :             T=int
+C:\Users\theti\source\repos\PPvISLr4\PPvISLr4\nongraf.h(92): message :         ]
+C:\Users\theti\source\repos\PPvISLr4\PPvISLr4\Source.cpp(13): message : выполняется компиляция ссылки на экземпляр шаблон функции "nongraf<int>::Iterator nongraf<int>::GetVerIter(T)"
+C:\Users\theti\source\repos\PPvISLr4\PPvISLr4\Source.cpp(13): message :         with
+C:\Users\theti\source\repos\PPvISLr4\PPvISLr4\Source.cpp(13): message :         [
+C:\Users\theti\source\repos\PPvISLr4\PPvISLr4\Source.cpp(13): message :             T=int
+C:\Users\theti\source\repos\PPvISLr4\PPvISLr4\Source.cpp(13): message :         ]
+C:\Users\theti\source\repos\PPvISLr4\PPvISLr4\nongraf.h(331,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\theti\source\repos\PPvISLr4\PPvISLr4\nongraf.h(328): message : во время компиляции функции-члена класс шаблон "double nongraf<int>::GetEdgeNum(void)"
+C:\Users\theti\source\repos\PPvISLr4\PPvISLr4\Source.cpp(20): message : выполняется компиляция ссылки на экземпляр шаблон функции "double nongraf<int>::GetEdgeNum(void)"
+C:\Users\theti\source\repos\PPvISLr4\PPvISLr4\nongraf.h(342,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\theti\source\repos\PPvISLr4\PPvISLr4\nongraf.h(341): message : во время компиляции функции-члена класс шаблон "void nongraf<int>::EraseVertex(nongraf<int>::Iterator)"
+C:\Users\theti\source\repos\PPvISLr4\PPvISLr4\Source.cpp(12): message : выполняется компиляция ссылки на экземпляр шаблон функции "void nongraf<int>::EraseVertex(nongraf<int>::Iterator)"
+C:\Users\theti\source\repos\PPvISLr4\PPvISLr4\nongraf.h(347,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\theti\source\repos\PPvISLr4\PPvISLr4\nongraf.h(348,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\theti\source\repos\PPvISLr4\PPvISLr4\nongraf.h(389,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\theti\source\repos\PPvISLr4\PPvISLr4\nongraf.h(386): message : во время компиляции функции-члена класс шаблон "void nongraf<int>::InsertVertex(T,nongraf<T>::Iterator)"
+C:\Users\theti\source\repos\PPvISLr4\PPvISLr4\nongraf.h(386): message :         with
+C:\Users\theti\source\repos\PPvISLr4\PPvISLr4\nongraf.h(386): message :         [
+C:\Users\theti\source\repos\PPvISLr4\PPvISLr4\nongraf.h(386): message :             T=int
+C:\Users\theti\source\repos\PPvISLr4\PPvISLr4\nongraf.h(386): message :         ]
+C:\Users\theti\source\repos\PPvISLr4\PPvISLr4\Source.cpp(17): message : выполняется компиляция ссылки на экземпляр шаблон функции "void nongraf<int>::InsertVertex(T,nongraf<T>::Iterator)"
+C:\Users\theti\source\repos\PPvISLr4\PPvISLr4\Source.cpp(17): message :         with
+C:\Users\theti\source\repos\PPvISLr4\PPvISLr4\Source.cpp(17): message :         [
+C:\Users\theti\source\repos\PPvISLr4\PPvISLr4\Source.cpp(17): message :             T=int
+C:\Users\theti\source\repos\PPvISLr4\PPvISLr4\Source.cpp(17): message :         ]
+C:\Users\theti\source\repos\PPvISLr4\PPvISLr4\nongraf.h(307,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\theti\source\repos\PPvISLr4\PPvISLr4\nongraf.h(306): message : во время компиляции функции-члена класс шаблон "bool nongraf<int>::IsVertexExist(T)"
+C:\Users\theti\source\repos\PPvISLr4\PPvISLr4\nongraf.h(306): message :         with
+C:\Users\theti\source\repos\PPvISLr4\PPvISLr4\nongraf.h(306): message :         [
+C:\Users\theti\source\repos\PPvISLr4\PPvISLr4\nongraf.h(306): message :             T=int
+C:\Users\theti\source\repos\PPvISLr4\PPvISLr4\nongraf.h(306): message :         ]
+C:\Users\theti\source\repos\PPvISLr4\PPvISLr4\nongraf.h(202): message : выполняется компиляция ссылки на экземпляр шаблон функции "bool nongraf<int>::IsVertexExist(T)"
+C:\Users\theti\source\repos\PPvISLr4\PPvISLr4\nongraf.h(202): message :         with
+C:\Users\theti\source\repos\PPvISLr4\PPvISLr4\nongraf.h(202): message :         [
+C:\Users\theti\source\repos\PPvISLr4\PPvISLr4\nongraf.h(202): message :             T=int
+C:\Users\theti\source\repos\PPvISLr4\PPvISLr4\nongraf.h(202): message :         ]
+C:\Users\theti\source\repos\PPvISLr4\PPvISLr4\nongraf.h(226): message : во время компиляции функции-члена класс шаблон "nongraf<int>::nongraf(void)"
+C:\Users\theti\source\repos\PPvISLr4\PPvISLr4\Source.cpp(4): message : выполняется компиляция ссылки на экземпляр шаблон функции "nongraf<int>::nongraf(void)"
+C:\Users\theti\source\repos\PPvISLr4\PPvISLr4\nongraf.h(99): warning C4715: nongraf<int>::GetVerIter: значение возвращается не при всех путях выполнения
+  PPvISLr4.vcxproj -> C:\Users\theti\source\repos\PPvISLr4\Debug\PPvISLr4.exe
